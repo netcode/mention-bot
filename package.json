@@ -17,7 +17,7 @@
       "core-js/.*"
     ]
   },
-  "config": {},
+  "config": [],
   "dependencies": {
     "babel-core": "^6.0.0",
     "babel-jest": "^6.0.1",
@@ -30,8 +30,8 @@
     "download-file-sync": "^1.0.3",
     "express": "^4.13.3",
     "flow-bin": "^0.60.1",
-    "github": "^7.3.2",
-    "jest-cli": "^0.7.1",
+    "github": "14.0.0",
+    "jest-cli": "24.9.0",
     "jsonlint": "^1.6.2",
     "minimatch": "^3.0.0",
     "node-schedule": "^1.0.0"
